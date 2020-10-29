@@ -1,0 +1,5 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+"
+}
